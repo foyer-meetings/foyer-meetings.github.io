@@ -12,9 +12,9 @@ logo:
 
 collections:
   services:
-    output: false
+    output: true
   team:
-    output: false
+    output: true
 
 defaults:
   - scope:
