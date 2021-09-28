@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Foyer - the future of meetings.
+# Foyer - Welcome to the Future of Meetings.
 
-Foyer is where you run your meetings efficiently. A one stop solution to all your meeting problems.
+Foyer is the epitome of productivity for your workspace. With our product you can run your meetings more efficiently, assign action items easily and follow up on those effortlesly. A one stop solution to all your meeting problems.
