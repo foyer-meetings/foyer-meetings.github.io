@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Foyer - Welcome to the future of meetings.
+# Foyer - the future of meetings.
 
-Foyer is where you run your meetings efficiently.
+Foyer is where you run your meetings efficiently. A one stop solution to all your meeting problems.
