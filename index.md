@@ -5,8 +5,7 @@ description: The epitome of productivity
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: false
-show_email_box: true
+show_call_box: true
 ---
 
 # Foyer - Welcome to the Future of Meetings.
